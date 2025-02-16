@@ -4,8 +4,8 @@ function signIn() {
 
             // List of valid usernames and passwords
             const validUsers = [
-                {username: "admin", password: "password123"},
-                {username: "user2", password: "password456"}
+                {username: "zac", password: "Zaxc1122"},
+                {username: "test", password: "1234"}
             ];
 
             // Check if the entered credentials match any of the valid users
