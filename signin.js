@@ -15,7 +15,7 @@ function signIn() {
                 alert("Sign in cancelled.");
             } else if (isValid) {
                 alert("Welcome, " + user + "!");
-                 window.location.href = "home.js";       
+                 window.location.href = "home.html";       
             } else {
                 alert("Invalid username or password.");
             }
